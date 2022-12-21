@@ -2,7 +2,7 @@
 bungeecord commandspy and sudo
 
 
-# how-to
+# Tutorial
 ```1) download a bungeecord server
 2) download this plugin
 3) put it in the bungeecord's plugins folder
@@ -17,14 +17,14 @@ to your target server
 ![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/0.png?raw=true)
 <br><br>
 - 2<br>
-![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/0.png?raw=true)
+![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/1.png?raw=true)
 <br><br>
 - 3<br>
-![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/0.png?raw=true)
+![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/2.png?raw=true)
 <br><br>
 - 4<br>
-![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/0.png?raw=true)
+![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/3.png?raw=true)
 <br><br>
 - 5/6<br>
-![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/0.png?raw=true)
+![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/5.jpg?raw=true)
 <br><br>
