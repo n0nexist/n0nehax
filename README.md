@@ -16,6 +16,7 @@ bungeecord commandspy and sudo
 ![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/3.png?raw=true)
 <br><br>
 to your target server
+<br>
 5) trick an admin into logging in your bungeecord
 6) now you can see every command they type and force them to execute commands.<br>
 ![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/5.jpg?raw=true)
