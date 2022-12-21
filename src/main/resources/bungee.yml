@@ -1,0 +1,3 @@
+name: Nonehax
+version: '${project.version}'
+main: n0nehax.nonehax.Nonehax
