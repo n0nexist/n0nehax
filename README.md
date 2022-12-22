@@ -3,7 +3,7 @@ bungeecord commandspy and sudo
 
 
 # Tutorial
-1) download a bungeecord server<br>
+<b>1) download a bungeecord server<br>
 ![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/0.png?raw=true)
 <br><br>
 2) download this plugin<br>
@@ -17,7 +17,7 @@ bungeecord commandspy and sudo
 <br><br>
 to your target server
 <br>
-5) trick an admin into logging in your bungeecord
-6) now you can see every command they type and force them to execute commands.<br>
+5) trick an admin into logging in your bungeecord<br>
+6) now you can see every command they type and force them to execute commands.<br></b>
 ![alt-text](https://github.com/n0nexist/n0nehax/blob/main/pictures/5.jpg?raw=true)
 <br><br>
