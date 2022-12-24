@@ -1,9 +1,5 @@
 # n0nehax
-bungeecord commandspy and sudo
-
-# How does it work
-this plugin can be used to trick a server's admin to join into his server via your bungeecord and be forced
-to execute commands at will (also his commands will be logged)
+This bungeecord plugin can spy commands and force other players (including admins) to execute commands at will.
 
 # Tutorial
 <b>· 1 download a bungeecord server<br>
